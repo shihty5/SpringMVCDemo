@@ -9,8 +9,7 @@
 		</layout>
 	</appender>
 
-	<logger name="com.peter.controller" level="debug"
-		additivity="false">
+	<logger name="com.peter.controller" level="debug" additivity="false">
 		<appender-ref ref="STDOUT" />
 	</logger>
 
